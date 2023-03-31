@@ -4,9 +4,9 @@ pyscene environment to run
 
 ## Pyscene
 
-[Docs](https://scenedetect.com/en/latest/)
-[Github](https://github.com/Breakthrough/PySceneDetect)
-[pypi:scenedetect](https://pypi.org/project/scenedetect/)
+- [Docs](https://scenedetect.com/en/latest/)
+- [Github](https://github.com/Breakthrough/PySceneDetect)
+- [pypi:scenedetect](https://pypi.org/project/scenedetect/)
 
 ## How to use
 
